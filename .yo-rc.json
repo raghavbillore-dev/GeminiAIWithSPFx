@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.18.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.1",
+    "libraryName": "gemini-ai-with-sp-fx",
+    "libraryId": "bd0ea95f-413c-42bc-ade6-2a8cfdeb711e",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "gemini-ai-with-sp-fx",
+    "solutionShortDescription": "gemini-ai-with-sp-fx description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
