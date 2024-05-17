@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "gemini-ai-with-sp-fx-client-side-solution",
+    "id": "bd0ea95f-413c-42bc-ade6-2a8cfdeb711e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "gemini-ai-with-sp-fx description"
+      },
+      "longDescription": {
+        "default": "gemini-ai-with-sp-fx description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "gemini-ai-with-sp-fx Feature",
+        "description": "The feature that activates elements of the gemini-ai-with-sp-fx solution.",
+        "id": "d0024d61-b90c-4b9e-a438-2c81e48b557d",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/gemini-ai-with-sp-fx.sppkg"
+  }
+}

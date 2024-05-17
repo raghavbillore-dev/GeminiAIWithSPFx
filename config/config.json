@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "gemini-with-sp-fx-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/geminiWithSpFx/GeminiWithSpFxWebPart.js",
+          "manifest": "./src/webparts/geminiWithSpFx/GeminiWithSpFxWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "GeminiWithSpFxWebPartStrings": "lib/webparts/geminiWithSpFx/loc/{locale}.js"
+  }
+}
